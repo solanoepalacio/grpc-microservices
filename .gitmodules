@@ -7,3 +7,6 @@
 [submodule "node-service"]
 	path = node-service
 	url = git@github.com:solanoepalacio/grpc-node-service
+[submodule "messages"]
+	path = messages
+	url = git@github.com:solanoepalacio/grpc-messages
