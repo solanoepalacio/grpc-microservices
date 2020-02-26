@@ -10,3 +10,6 @@
 [submodule "messages"]
 	path = messages
 	url = git@github.com:solanoepalacio/grpc-messages
+[submodule "web-client"]
+	path = web-client
+	url = git@github.com:solanoepalacio/grpc-web-client
