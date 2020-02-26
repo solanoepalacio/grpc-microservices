@@ -1,3 +1,6 @@
 [submodule "docker-common"]
 	path = docker-common
 	url = git@github.com:solanoepalacio/grpc-docker-common
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:solanoepalacio/grpc-web-gateway
