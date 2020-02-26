@@ -4,3 +4,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = git@github.com:solanoepalacio/grpc-web-gateway
+[submodule "node-service"]
+	path = node-service
+	url = git@github.com:solanoepalacio/grpc-node-service
