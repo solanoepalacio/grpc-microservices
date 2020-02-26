@@ -21,7 +21,7 @@ services:
     image: grpc_node_service
     build:
       context: ./
-      dockerfile: ./grpc-node-service/Dockerfile
+      dockerfile: ./node-service/Dockerfile
     depends_on:
       - common
     ports:
